@@ -1,0 +1,11 @@
+url
+domain
+txt
+code
+pdf
+string
+api
+document
+php
+html
+
